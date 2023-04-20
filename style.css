@@ -650,8 +650,8 @@ textarea {
   }
 
   .main-block {
-    background-size: auto;
-    background-attachment: inherit;
+    background-size: 1500px;
+    background-attachment: fixed;
     height: 450px;
   }
 
