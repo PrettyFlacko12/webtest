@@ -656,8 +656,8 @@ textarea {
 
 .our-projects {
   font-size: 40px;
-  padding-top: 150px;
-  padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 25px;
 }
 
 @media screen and (max-width: 998px) {
